@@ -11,7 +11,7 @@ global.APIKeys = {
 	'https://zenzapis.xyz': 'your key',
 }
 
-global.alivemsg = ` ♡ _♫__♡
+global = ` ♡ _♫__♡
 ║║╔║║╔╗ ♫
 ╠╣╠║║║║
 ║║╚╚╚╚╝ ♫
