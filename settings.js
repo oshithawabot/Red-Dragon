@@ -25,24 +25,21 @@ global.alivemsg = ` ♡ _♫__♡
 🤪ඕන දෙයක් කරන්න පුලුවන් හරිද මට😁
 🤖MENU උඩ ටච් කරාම හැම කමාන්ඩ් එකක්ම එයි...හැම එකක්ම ට්‍රයි කරල බලන්ඩෝ🤭
 ━━━━━━━━━━━━━━━━━━
-
 ┏╗ ┏╗
 ║┃ ║┃╔━╦╦┳═╗
 ║┃ ┃╚┫║┃┃┃╩┫
 ┗╝ ╚━╩═┻━╩━╝
-
 ┓╔┓┏
 ║╚┛┣═╦┳╗
 ┗╗┏╣┃┃║┃
  ┗╝┗═┻═╝
-
 ━━━━━━━━━━━━━━━━━━ ` //Costomize Alive Message (type your message in `` )
 
 
 global.autoTyping = true //auto tying in gc (true to on, false to off)
-global.autoreadpmngc = false //auto reading in gc and pm (true to on, false to off)
-global.autoReadGc = false //auto reading in gc (true to on, false to off)
-global.autoRecord = false //auto recording (true to on, false to off)
+global.autoreadpmngc = true //auto reading in gc and pm (true to on, false to off)
+global.autoReadGc = true //auto reading in gc (true to on, false to off)
+global.autoRecord = true //auto recording (true to on, false to off)
 global.available = true //auto available (true to on, false to off)
 
 global.doc1 = 'application/vnd.openxmlformats-officedocument.presentationml.presentation'
@@ -55,7 +52,7 @@ global.doc6 = 'application/vnd.android.package-archive'
 //owner v card
 global.vcardowner = ['+94725692096'] // owner number
 global.ownername = "OSHITHA" // owner name
-global.ytname = "" // yt chanel name
+global.ytname = "RED DRAGON BOT" // yt chanel name
 global.socialm = "GitHub: prabhasha2006" // github or insta name
 global.location = "India, Mizoram, Aizawl" // location
 
@@ -66,7 +63,7 @@ global.dragonchat = "true"  // chat bot  "true" / "false" (200 auto replies in t
 global.callblock = "true" // call block "true" / "false" ("true"  to block callers)
 global.antibad = "true" // To remove bad word senders
 global.antispam = "true" // To remove or block spammers
-global.antilink = "false" // To remove group link sharing peoples
+global.antilink = "true" // To remove group link sharing peoples
 global.upsongvoice = "true" // true/false \\ bot can upload song as voice note (it use your data and storage bacause auto download) you can put "false" (anyone can't get songs as voice note / your data is not wasted)
 global.welcom_msg = "true" // Welcome / Goodbye   [true/false]
 
