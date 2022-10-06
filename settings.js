@@ -12,45 +12,28 @@ global.APIKeys = {
 }
 
 global.alivemsg = ` ♡ _♫__♡
-
 ║║╔║║╔╗ ♫
-
 ╠╣╠║║║║
-
 ║║╚╚╚╚╝ ♫
-
 ━━━━━━━━━━━━━━━━
-
  👻𝙍𝙀𝘿 𝘿𝙍𝘼𝙂𝙊𝙉 𝘽𝙊𝙏👻
-
 ━━━━━━━━━━━━━━━━
-
 𝗢𝗪𝗡𝗘𝗥-ＯＳＨＩＴＨＡ
 
 📤මම තාම වැඩ කරනව හරිද😇
-
 🤷‍♀️ඔයාට මගෙන් මොනවද වෙන්න ඕනේ😉
-
 🤪ඕන දෙයක් කරන්න පුලුවන් හරිද මට😁
-
 🤖MENU උඩ ටච් කරාම හැම කමාන්ඩ් එකක්ම එයි...හැම එකක්ම ට්‍රයි කරල බලන්ඩෝ🤭
-
 ━━━━━━━━━━━━━━━━━━
 
 ┏╗ ┏╗
-
 ║┃ ║┃╔━╦╦┳═╗
-
 ║┃ ┃╚┫║┃┃┃╩┫
-
 ┗╝ ╚━╩═┻━╩━╝
 
 ┓╔┓┏
-
 ║╚┛┣═╦┳╗
-
 ┗╗┏╣┃┃║┃
-
  ┗╝┗═┻═╝
 
 ━━━━━━━━━━━━━━━━━━ ` //Costomize Alive Message (type your message in `` )
@@ -84,7 +67,7 @@ global.callblock = "true" // call block "true" / "false" ("true"  to block calle
 global.antibad = "true" // To remove bad word senders
 global.antispam = "true" // To remove or block spammers
 global.antilink = "false" // To remove group link sharing peoples
-global.upsongvoice = "false" // true/false \\ bot can upload song as voice note (it use your data and storage bacause auto download) you can put "false" (anyone can't get songs as voice note / your data is not wasted)
+global.upsongvoice = "true" // true/false \\ bot can upload song as voice note (it use your data and storage bacause auto download) you can put "false" (anyone can't get songs as voice note / your data is not wasted)
 global.welcom_msg = "true" // Welcome / Goodbye   [true/false]
 
 
@@ -205,7 +188,7 @@ global.ntilink = []
 global.rep = { // All Replies = 145
     K1: '🫢හායි😁❤️',
     K2: '🤭හූයි✌️💞🫶',
-    K3: '😉🫶හායි😂',
+    K3: '😉හායි😂',
     K4: '🥴හූයි😊',
     K5: '😂හේයි, හව් ආ යූ🥴✌️',
     K6: '😁Hey there💝 I am WhatsApp Bot😏',
